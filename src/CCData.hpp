@@ -4,9 +4,9 @@
  */
 #pragma once
 
-#include <iostream>
 #include <string>
 #include <vector>
+#include <cstdint>
 
 namespace CCData {
     class CCData {
